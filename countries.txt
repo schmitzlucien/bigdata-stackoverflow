@@ -1,47 +1,50 @@
+﻿United States|USA|U.S.A.|U.S.A|U.S.|Silicon Valley|Utah|Alaska|Arkansas|Tennessee|Kansas|Pennsylvania|Oklahoma|South Carolina|Connecticut|California|Hawaii|Nebraska|Mississippi|Missouri|Massachusetts|Idaho|Iowa|Maryland|Colorado|Ohio|Wisconsin|Alabama|Arizona|Kentucky|Nevada|Texas|New Jersey|Illinois|Michigan|Milwaukee|Minnesota|Washington|NYC|Bay Area
+China|Chinese|Chine|Jiangxi|Anhui|Hunan|Guangdong|Huazhong|Zhejiang|Fujian|Jiangsu|Yongin-si|Guangzhou|Shanghai|Shandong|Shanxi|Shenzhen|Sichuan|Xian|Xi'an|中华人民共和国
+India|Kerala|Kashmir|Rajkot|Surat|Trivandrum|Jammu and Kashmir|भारत
+United Kingdom|UK|England|Scotland|Surrey|Wales|Aberdeen|Great Britain|Isle of Man|Britain
 Afghanistan|Afġānistān
 Albania|Shqipëri|Shqipëria|Republika e Shqipërisë|Shqipni|Shqipnia
-Algeria|Algérie
+Algeria|Algérie|Algerie|Alger
 American Samoa|Amerika Sāmoa
-Andorra 
+Andorra
 Angola
 Anguilla
 Antarctica
 Antigua And Barbuda
-Argentina
+Argentina|Buenos Aires
 Armenia|Hayastan
 Aruba
-Australia
+Australia|Melbourne|Sydney|Brisbane|Canberra
 Austria|Österreich
-Azerbaijan|Azərbaycan
+Azerbaijan|Azərbaycan|Azerbaycan
 Bahamas
 Bahrain|al-Baḥrayn
 Bangladesh
 Barbados
-Belarus|Белоруссия
+Belarus|Белоруссия|Беларусь
 Belgium|België|Belgique|Belgien
 Belize
 Benin|Bénin
 Bermuda
 Bhutan|Druk Yul
 Bolivia
-Bosnia And Herzegovina
+Bosnia And Herzegovina|Bosnia and Herzegovina|Bosna i Hercegovina
 Botswana
 Bouvet Island
-Brazil|Brasil
+Brazil|Brasil|São Paulo
 British Indian Ocean Territory
-Brunei Darussalam
-Bulgaria|България
+Brunei|Darussalam
+Bulgaria|Sofia|България
 Burkina Faso
 Burundi
 Cambodia|Cambodge
 Cameroon|Cameroun
-Canada
+Canada|Alberta|Montreal|Ottawa|Ontario|Quebec|Kanada
 Cape Verde|Cabo Verde
 Cayman Islands
 Central African Republic|République centrafricaine
 Chad|Tchad
 Chile
-China|中华人民共和国
 Christmas Island
 Cocos Islands|Keeling Islands
 Colombia
@@ -51,11 +54,11 @@ The Democratic Republic Of The Congo
 Cook Islands|Kūki 'Āirani
 Costa Rica
 Côte d'Ivoire
-Croatia|Hrvatska
-Cuba
-Cyprus|Κύπρος|Kıbrıs
-Czech Republic|Česká republika
-Denmark|Danmark
+Croatia|Hrvatska|Kroatien
+Cuba|Havana
+Cyprus|Κύπρος|Kıbrıs|Nicosia|Česko
+Czech Republic|Czechia|Česká republika
+Denmark|Danmark|Danemark|Dänemark
 Djibouti
 Dominica
 Dominican Republic|República Dominicana
@@ -70,7 +73,7 @@ Ethiopia|Itoobiya
 Falkland Islands|Islas Malvinas
 Faroe Islands|Færøerne|Føroyar
 Fiji|Viti
-Finland|Suomi
+Finland|Suomi|Finlândia
 France
 French Guiana|Guyane française
 French Polynesia|Polynésie française
@@ -78,16 +81,16 @@ French Southern Territories|Terres Australes et Antarctiques Françaises
 Gabon
 Gambia
 Georgia|საქართველო
-Germany|Deutschland
+Germany|Deutschland|German|Germay|Germania|München
 Ghana
 Gibraltar
-Greece|Ελλάδα
+Greece|Ελλάδα|Athens
 Greenland|Kalaallit Nunaat|Grønland
 Grenada
 Guadeloupe|Gwadloup
 Guam
 Guatemala
-Guinea
+Guinea|Guinée
 Guinea-bissau|Guiné-Bissau
 Guyana
 Haiti
@@ -95,40 +98,39 @@ Heard Island And Mcdonald Islands
 Holy See (vatican City State)|Sancta Sedes|Santa Sede
 Honduras
 Hong Kong|香港
-Hungary|Magyarország
+Hungary|Magyarország|Budapest
 Iceland|Ísland
-India|भारत
-Indonesia
-Iran
+Indonesia|indonesia|Bandung
+Iran|Kurdistan|Tehran
 Iraq
 Ireland
-Israel|שְׂרָאֵל
+Israel|Israël|Palestinian|Tel Aviv|Petah Tikva|Gaza Strip|שְׂרָאֵל
 Italy|Italia
 Jamaica
 Japan|日本
 Jordan|الأردن
-Kazakhstan|Қазақстан
+Kazakhstan|Қазақстан|Казахстан
 Kenya
 Kiribati
-South Korea
+South Korea|Korea
 North Korea
 Kosovo|Косово
 Kuwait|دولة الكويت
-Kyrgyzstan
-Lao People's Democratic Republic
+Kyrgyzstan|Bishkek
+Lao People's Democratic Republic|Laos
 Latvia|Latvija
 Lebanon|Liban
 Lesotho
 Liberia
-Libyan Arab Jamahiriya
+Libyan Arab Jamahiriya|Libya|Libyana
 Liechtenstein
 Lithuania|Lietuva
-Luxembourg
+Luxembourg|Luxemburg
 Macau|澳門
 Macedonia|Македонија
 Madagascar|Madagasikara
 Malawi
-Malaysia
+Malaysia|Kuala Lumpur
 Maldives
 Mali
 Malta
@@ -137,14 +139,14 @@ Martinique|Matinik
 Mauritania|وريتانيا
 Mauritius|Maurice
 Mayotte
-Mexico
+Mexico|México
 Micronesia|μικρόν
 Moldova
 Monaco
 Mongolia|Монгол
 Montserrat
 Montenegro|Crna Gora
-Moroccoالمملكة المغربية
+Morocco|MOROCCO|MORROCCO|Morroco|Maroc|المملكة المغربية
 Mozambique|Moçambique
 Myanmar
 Namibia
@@ -153,16 +155,16 @@ Nepal|नेपाल
 Netherlands|Nederland
 Antia Neerlandes|Nederlandse Antillen
 New Caledonia|Nouvelle-Calédonie
-New Zealand
+New Zealand|Auckland
 Nicaragua
 Niger
-Nigeria
+Nigeria|Abuja
 Niue|Niuē
 Norfolk Island
 Northern Mariana Islands
 Norway|Norge
 Oman
-Pakistan|پاکِستان 
+Pakistan|Bangladesh|Gilgit|پاکِستان 
 Palau
 Palestine
 Panama|Panamá
@@ -176,8 +178,8 @@ Portugal
 Puerto Rico
 Qatar
 Réunion
-Romania|România
-Russia|Росси́я
+Romania|România|Románia
+Russia|Росси́я|Россия|Crimea|Russie|Russland|Rusya|Rossiya
 Rwanda
 Saint Helena
 Saint Kitts And Nevis
@@ -187,51 +189,50 @@ Saint Vincent And The Grenadines
 Samoa
 San Marino
 São Tomé e Príncipe
-Saudi Arabia
+Saudi Arabia|Riyadh
 Senegal|Sénégal
 Serbia|Србија
 Seychelles
 Sierra Leone
-Singapore|Singapura
+Singapore|Singapura|singapore
 Slovakia|Slovensko
 Slovenia|Slovenija
 Solomon Islands
 Somalia|Soomaaliya
-South Africa
+South Africa|Pretoria|Cape Town
 South Georgia And The South Sandwich Islands
-Spain|España
-Sri Lanka
+Spain|Barcelona|Madrid|España|Mallorca
+Sri Lanka|Colombo|Srilanka
 Sudan
 Suriname
 Svalbard And Jan Mayen
 Swaziland|Eswatini|eSwatini
 Sweden|Sverige
-Switzerland|Swiss|Schweizerin|Suisse|Svizzera
+Switzerland|Swiss|Schweiz|Suisse|Svizzera
 Syria
-Taiwan
+Taiwan|Taipei|台灣
 Tajikistan
 Tanzania
-Thailand|ประเทศไทย
+Thailand|Bangkok|ประเทศไทย
 Togo
 Tokelau
 Tonga
-Trinidad And Tobago
+Trinidad And Tobago|Trinidad and Tobago
 Tunisia|Tunisie
-Turkey|Türkiye
-Turkmenistan|Türkmenistan
+Turkey|Türkiye|Türkei|Turquie|Turkiye
+Turkmenistan|Türkmenistan|Туркменистан
 Turks And Caicos Islands
 Tuvalu
 Uganda
-Ukraine|Україна
-United Arab Emirates
-United Kingdom
-United States
+Ukraine|Україна|Украина
+United Arab Emirates|UAE
 Minor Outlying Islands
 Uruguay
 Uzbekistan|Ўзбекистон
 Vanuatu
 Venezuela
-Vietnam|Việt Nam
+Vietnam|Hanoi|Ho Chi Minh City|Việt Nam|Viet Nam
+West Africa|Ivory Coast
 British Virgin Islands
 U.S. Virgin Islands
 Wallis And Futuna|Wallis-et-Futuna
